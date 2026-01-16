@@ -10,6 +10,7 @@ MAIN FUNCTION
 6. Initialize 'guess' variable
 
 DO WHILE LOOP (runs until the correct guess)
+    
     a. Prompt the user for a guess
     b. Increment 'guessCount'
     c. IF guess < number
@@ -20,6 +21,7 @@ DO WHILE LOOP (runs until the correct guess)
            print "That's correct!"
 
 AFTER LOOP (user has guessed correctly)
+
 7. Print final number of guesses
 8. Evaluate performance
     IF guessCount < 7
