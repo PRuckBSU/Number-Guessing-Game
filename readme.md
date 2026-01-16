@@ -1,4 +1,5 @@
 #algorithm for guesser game
+
 '''
 MAIN FUNCTION
 1. Seed the random number generator
